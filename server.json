@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-12-21T14:01:03.454Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-12-21T14:06:26.521Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 2000,
+      "createdAt": "2022-12-22T10:06:25.521Z"
+    },
+    {
+      "description": "Pastelzão de feira",
+      "price": 6,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-12-23T21:38:50.580Z",
+      "id": 4
+    },
+    {
+      "description": "Video game",
+      "price": 3500,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2022-12-26T12:53:21.677Z",
+      "id": 5
+    },
+    {
+      "description": "Vendas dos birgadeiros",
+      "price": 400,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2022-12-26T12:54:49.591Z",
+      "id": 6
+    },
+    {
+      "description": "Pastelzão de feira",
+      "price": 6,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-12-28T11:10:43.570Z",
+      "id": 7
+    }
+  ]
+}
